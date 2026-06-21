@@ -1,11 +1,13 @@
 # MALEKA Ω v2
 
-Platform-independent Cognitive Operating System.
+The ultimate Cognitive Operating System.
 
-## Architecture
-Universal Cognitive Graph connecting Agents, Knowledge, Memory, etc.
+## Vision
+Platform-independent fusion of Knowledge, Memory, Agent Civilization, Self-Evolution.
 
-## Quick Start
-npm install && npm run dev
+## Priorities Implemented
+1. Universal Cognitive Graph
+2. Memory OS
+3. Collective Intelligence
 
-Vision: Agent Civilization for infinite innovation.
+Production-grade, self-evolving.
