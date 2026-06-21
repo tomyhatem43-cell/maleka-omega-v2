@@ -1,8 +1,9 @@
-export default function Home() {
+export default function MALEKAOmega() {
   return (
-    <main>
-      <h1>MALEKA Ω v2 - Cognitive OS</h1>
-      <p>Initializing Universal Cognitive Graph...</p>
+    <main className="min-h-screen bg-black text-white">
+      <h1 className="text-6xl font-bold">MALEKA Ω - Cognitive Operating System</h1>
+      <p>Universal Cognitive Graph • Agent Civilization • Self-Evolving</p>
+      {/* Dashboard with real-time agents */}
     </main>
   );
 }
